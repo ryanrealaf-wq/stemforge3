@@ -1,0 +1,6 @@
+{
+  "name": "Audio to MIDI",
+  "description": "High-performance Audio to MIDI converter with packaged Android API, real-time pitch detection, onset tracking, piano roll visualizer, and SMF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
